@@ -92,7 +92,7 @@ In this task, I set up a complete **RISC-V development environment** using GitHu
 ##  Conclusion
 All four steps were successfully completed:
 - Codespace setup   
-- RISC-V flow verification   
+- RISC-V flow verification    
 - FPGA lab execution   
 - Local environment setup   
 
