@@ -11,7 +11,7 @@ In this task, I set up a complete **RISC-V development environment** using GitHu
 - Launched environment using the **VS Code-based Codespace image**
 - Build completed successfully without errors
 
-<img width="1600" height="997" alt="image" src="https://github.com/user-attachments/assets/0a5ba653-7e63-4cb7-b342-88d99d0e12ac" />
+<img width="1920" height="1131" alt="Screenshot from 2026-02-20 20-58-32" src="https://github.com/user-attachments/assets/33f1f858-56ee-448f-a8f6-90a3e010dc8a" />
 
 ---
 
@@ -19,14 +19,13 @@ In this task, I set up a complete **RISC-V development environment** using GitHu
 - Followed instructions from the `README.md`
 - Successfully built and executed a RISC-V program
 
-<img width="935" height="430" alt="image" src="https://github.com/user-attachments/assets/6b7b49ca-966f-43cd-9662-b132e05d8267" />
-<img width="1000" height="642" alt="image" src="https://github.com/user-attachments/assets/e6fec0b8-cf9d-4411-aa1d-6cf6c942beed" />
-<img width="1000" height="642" alt="image" src="https://github.com/user-attachments/assets/939d6249-4597-40be-8323-e6ed889179c6" />
+<img width="1435" height="630" alt="image" src="https://github.com/user-attachments/assets/d6e5e344-9f8b-42e5-84f4-2047ed160370" />
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/a01b0790-533a-4974-87a2-58667c45e21a" />
 
 - Modified the C program to produce custom output:  
   **"FIELD PROGRAMMABLE GATE ARRAY"**
 
-<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/628c3978-024a-45a0-b921-0cb633b5d69a" />
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/4d528cc2-3ab4-4a25-9610-ab1b3702f7f7" />
 
 ---
 
@@ -41,7 +40,7 @@ In this task, I set up a complete **RISC-V development environment** using GitHu
 
 - Successfully flashed the FPGA program onto the board
 
-<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/46312066-7a65-4640-bd6a-0d8a93ebfd09" />
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/41d881d5-8cc4-4752-bf7a-bbdfafdf4a43" />
 
 ---
 
@@ -52,7 +51,8 @@ In this task, I set up a complete **RISC-V development environment** using GitHu
   - Dependencies
 - Identified and installed necessary packages manually
 
-<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/d58516be-e541-445c-aaf6-1264be9671ca" />
+<img width="1600" height="997" alt="image" src="https://github.com/user-attachments/assets/1a2b89d2-88c1-4414-98a6-882189a7c9d4" />
+
 
 ---
 
